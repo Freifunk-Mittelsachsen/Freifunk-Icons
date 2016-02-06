@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="183.75105mm" height="149.09396mm" viewBox="0 0 651.08641 528.2857" id="svg6771" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="Wifi-Laptop.svg">
+  <defs id="defs6773" />
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35870742" inkscape:cx="547.72463" inkscape:cy="-323.10634" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1680" inkscape:window-height="971" inkscape:window-x="0" inkscape:window-y="21" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true" inkscape:snap-nodes="true" inkscape:snap-intersection-paths="true" inkscape:snap-grids="false">
+    <inkscape:grid type="xygrid" id="grid15661" originx="23.400342" originy="4.0000106" />
+  </sodipodi:namedview>
+  <metadata id="metadata6776">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Ebene 1" inkscape:groupmode="layer" id="layer1" transform="translate(-49.456797,-116.64792)">
+    <g id="g15685">
+      <path sodipodi:nodetypes="cssssscssc" inkscape:connector-curvature="0" id="rect7323" d="m 124.3465,494.93362 502.97099,0 c 12.63119,0 17.53201,11.31977 22.79999,22.8 l 49.24738,107.32214 c 5.26797,11.48022 -8.10517,19.8814 -20.73636,19.87786 L 73.796821,644.76403 c -12.6312,-0.004 -27.156961,-7.45159 -23.867712,-19.64704 L 101.5465,517.73357 c 5.47223,-11.38428 10.1688,-22.8 22.8,-22.8 z" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.10000038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g id="g9314">
+        <g id="g7325" transform="translate(-7.8571396,0)">
+          <rect ry="22.8571" y="116.64792" x="108.57143" height="370.00003" width="548.57141" id="rect7319" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.10000038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect ry="22.8571" y="150.98547" x="150.94048" height="301.32492" width="463.83331" id="rect7321" style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.10000038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <path id="path7737" d="m 375,423.42057 q -3.4917,0 -16.23636,-12.83196 -12.74466,-12.83196 -12.74466,-16.32364 0,-5.58671 10.91153,-9.42757 10.91152,-3.84085 18.06949,-3.84085 7.15796,0 18.06947,3.84085 10.91153,3.84086 10.91153,9.42757 0,3.49168 -12.74465,16.32364 Q 378.49168,423.42057 375,423.42057 Z m 47.13778,-47.31238 q -0.34917,0 -6.98338,-4.36461 -6.6342,-4.36461 -17.72032,-8.72923 -11.08611,-4.36461 -22.43408,-4.36461 -11.34799,0 -22.4341,4.36461 -11.08611,4.36462 -17.63303,8.72923 -6.54692,4.36461 -7.07067,4.36461 -3.14252,0 -16.32365,-13.09384 -13.18111,-13.09383 -13.18111,-16.23634 0,-2.2696 1.74583,-4.01545 13.6176,-13.443 34.21856,-21.12471 20.60096,-7.68172 40.67817,-7.68172 20.07721,0 40.67817,7.68172 20.60096,7.68171 34.21854,21.12471 1.74584,1.74585 1.74584,4.01545 0,3.14251 -13.18113,16.23634 -13.18111,13.09384 -16.32364,13.09384 z m 47.66154,-47.48696 q -1.92043,0 -4.01544,-1.39668 -23.74347,-18.33136 -43.99527,-26.97329 -20.25179,-8.64192 -46.78861,-8.64192 -14.83968,0 -29.76664,3.84085 -14.92698,3.84086 -26.01309,9.25297 -11.08611,5.41211 -19.81533,10.82423 -8.72922,5.41212 -13.79217,9.25298 -5.06294,3.84086 -5.41211,3.84086 -2.96793,0 -16.06177,-13.09384 -13.09383,-13.09383 -13.09383,-16.23634 0,-2.09502 1.74585,-3.84086 23.04514,-23.04515 55.867,-35.78981 32.82188,-12.74466 66.34209,-12.74466 33.5202,0 66.34207,12.74466 32.82187,12.74466 55.86702,35.78981 1.74583,1.74584 1.74583,3.84086 0,3.14251 -13.09383,16.23634 -13.09382,13.09384 -16.06177,13.09384 z m 47.31238,-47.31238 q -1.92043,0 -3.84086,-1.57126 -31.2506,-27.40975 -64.8581,-41.28921 Q 414.80524,224.56892 375,224.56892 q -39.80525,0 -73.41275,13.87946 -33.60751,13.87946 -64.85811,41.28921 -1.92043,1.57126 -3.84086,1.57126 -2.96793,0 -16.14905,-13.09383 -13.18113,-13.09384 -13.18113,-16.23635 0,-2.2696 1.74585,-4.01545 32.64728,-32.47269 77.69006,-50.2803 Q 328.03679,179.8753 375,179.8753 q 46.9632,0 92.00598,17.80762 45.04277,17.80761 77.69005,50.2803 1.74585,1.74585 1.74585,4.01545 0,3.14251 -13.18113,16.23635 -13.18112,13.09383 -16.14905,13.09383 z" inkscape:connector-curvature="0" style="fill:#009ee0;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
